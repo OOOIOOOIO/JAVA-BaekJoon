@@ -1,25 +1,25 @@
-package ¹®ÀÚ¿­;
+package ë¬¸ìì—´;
 
 
 import java.util.Scanner;
 
-public class ´Ü¾îÀÇ°øºÎ_1157 {
+public class ë‹¨ì–´ì˜ê³µë¶€_1157 {
 	public static void main(String[] args) {
-		int[] cnt = new int[26]; // 0À¸·Î ¾Ë¾Æ¼­ ÃÊ±âÈ­ µÊ
+		int[] cnt = new int[26]; // 0ìœ¼ë¡œ ì•Œì•„ì„œ ì´ˆê¸°í™” ë¨
 		int max = 0;
 		char result = '?';
 		Scanner sc = new Scanner(System.in);
 		
-		// ¼Ò¹®ÀÚ·Î ¹Ş±â
+		// ì†Œë¬¸ìë¡œ ë°›ê¸°
 		String word = sc.next().toUpperCase();
 		
 		
 		
 		for(int i = 0; i < word.length(); i++) {
-            // ±ÛÀÚ ¼ö ¼¼±â
+            // ê¸€ì ìˆ˜ ì„¸ê¸°
 			cnt[word.charAt(i) - 65]++;
 			
-            // ÃÖ´ëºñ±³
+            // ìµœëŒ€ë¹„êµ
 			if(cnt[word.charAt(i) - 65] > max) {
 			    max = cnt[word.charAt(i) - 65];
 				result = word.charAt(i);
@@ -32,7 +32,7 @@ public class ´Ü¾îÀÇ°øºÎ_1157 {
     }
 }	
 		
-		// ¾Æ½ºÅ° ÄÚµå ³Ö±â 1Çà : A-Z, 2Çà : a-z
+		// ì•„ìŠ¤í‚¤ ì½”ë“œ ë„£ê¸° 1í–‰ : A-Z, 2í–‰ : a-z
 //		for(int i = 0; i < 2; i++) {
 //			for(int j = 0; j < 26; j++) {
 //				if(i == 0) ASCII[i][j] = (char)(65 + j);
@@ -40,7 +40,7 @@ public class ´Ü¾îÀÇ°øºÎ_1157 {
 //			}
 //		}
 //		
-//		 ¾Æ½ºÅ° ÄÚµå°¡ Àß µé¾î°¬´ÂÁö È®ÀÎÇØº¸±â
+//		 ì•„ìŠ¤í‚¤ ì½”ë“œê°€ ì˜ ë“¤ì–´ê°”ëŠ”ì§€ í™•ì¸í•´ë³´ê¸°
 //		for(int i = 0; i < 2; i++) {
 //			for(int j = 0; j < 26; j++) {
 //				System.out.println(ASCII[i][j]);
