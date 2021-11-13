@@ -1,12 +1,12 @@
-package ¹®ÀÚ¿­;
+package ë¬¸ìì—´;
 
 import java.util.Scanner;
 
-public class ´Ü¾îÀÇ°³¼ö_1152 {
+public class ë‹¨ì–´ì˜ê°œìˆ˜_1152 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		// °ø¹é Á¦°ÅÇØ¼­ ¹Ş±â(.isemty()¸¦ ÇÏ±âÀ§ÇØ)
+		// ê³µë°± ì œê±°í•´ì„œ ë°›ê¸°(.isemty()ë¥¼ í•˜ê¸°ìœ„í•´)
 		String word = sc.nextLine().trim();
 		
  		
