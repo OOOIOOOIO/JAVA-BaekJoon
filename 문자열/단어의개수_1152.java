@@ -17,5 +17,6 @@ public class 단어의개수_1152 {
 		
 		else System.out.println(splitWord.length);
 	
+		
 	}
 }
