@@ -12,9 +12,18 @@
 > 
 ----------------------------------
 ## 수학
-> [손익분기점 1712](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%88%98%ED%95%99/%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90_1712.java)
+> [손익분기점 1712](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%88%98%ED%95%99/%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90_1712.java)     
+> 
 ----------------------------------
 ## 브루트포스
 > [분해합 2231](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%B6%84%ED%95%B4%ED%95%A9_2231.java)     
-> [블랙잭 2798](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%B8%94%EB%9E%99%EC%9E%AD_2798.java)
+> [블랙잭 2798](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%B8%94%EB%9E%99%EC%9E%AD_2798.java)     
+> 
+---------------------------------
+## 스택
+> [스택 10828](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%8A%A4%ED%83%9D/%EC%8A%A4%ED%83%9D_10828.java)     
+> [제로 10773](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%8A%A4%ED%83%9D/%EC%A0%9C%EB%A1%9C_10773.java)     
+> [괄호 9012](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%8A%A4%ED%83%9D/%EA%B4%84%ED%98%B8_9012.java)     
+> [균형 잡힌 세상 4949](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%8A%A4%ED%83%9D/%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%EC%84%B8%EC%83%81_4949.java)      
+> 
 
