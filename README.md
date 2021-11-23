@@ -13,7 +13,8 @@
 ----------------------------------
 ## 수학
 > [손익분기점 1712](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%88%98%ED%95%99/%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90_1712.java)     
-> 
+> [소수 2581](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%88%98%ED%95%99/%EC%86%8C%EC%88%98_2581.java)
+> [큰 수 BigInteger 10757](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%88%98%ED%95%99/%ED%81%B0%EC%88%98_10757_BigInteger.java)
 ----------------------------------
 ## 브루트포스
 > [분해합 2231](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%B6%84%ED%95%B4%ED%95%A9_2231.java)     
