@@ -29,6 +29,6 @@
 > 
 --------------------------------
 ## 큐
-> [큐2 18258]()    
-> [카드2 2164]()     
-> [요세푸스 11866]()     
+> [큐2 18258](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%ED%81%90/%ED%81%902_18258.java)    
+> [카드2 2164](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%ED%81%90/%EC%B9%B4%EB%93%9C2_2164_.java)     
+> [요세푸스 11866](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%ED%81%90/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4_11866.java)     
