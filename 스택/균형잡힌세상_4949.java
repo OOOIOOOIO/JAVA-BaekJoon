@@ -1,11 +1,11 @@
-package ½ºÅÃ;
+package ìŠ¤íƒ;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-public class ±ÕÇüÀâÈù¼¼»ó_4949 {
+public class ê· í˜•ì¡íŒì„¸ìƒ_4949 {
 	
 	public String match(String input) {
 		Stack<Character> stack = new Stack();
@@ -17,20 +17,20 @@ public class ±ÕÇüÀâÈù¼¼»ó_4949 {
 			
 			
 			else if(a == ')') {
-				if(!(stack.empty()) && stack.peek() == '(') stack.pop();
+				if(!(stack.empty()) && stack.peek() == '(') stack.pop(); // ìŠ¤íƒì´ ë¹„ì–´ìˆì§€ ì•Šê³  ì§ì´ ë§ì„ ë•Œ
                     
-                else return "no";
+                		else return "no";
 				
 			}
 			
 			else if(a == ']') {
-				if(!(stack.empty()) && stack.peek() == '[') stack.pop();
+				if(!(stack.empty()) && stack.peek() == '[') stack.pop(); // ìŠ¤íƒì´ ë¹„ì–´ìˆì§€ ì•Šê³  ì§ì´ ë§ì„ ë•Œ
                     
-                else return "no";
+                		else return "no";
 			}
 		}
 		if(stack.isEmpty()) {
-			return "yes";
+			return "yes"; // ë§ê²Œ ë‹¤ ë¹ ì ¸ë‚˜ì™€ ìŠ¤íƒœì´ ë¹„ì–´ìˆì„ ë•Œë§Œ
 		}
 		else {
 			return "no";
@@ -43,7 +43,7 @@ public class ±ÕÇüÀâÈù¼¼»ó_4949 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
 		
-		±ÕÇüÀâÈù¼¼»ó_4949 test = new ±ÕÇüÀâÈù¼¼»ó_4949();
+		ê· í˜•ì¡íŒì„¸ìƒ_4949 test = new ê· í˜•ì¡íŒì„¸ìƒ_4949();
 		
 		
 		while(true) {
