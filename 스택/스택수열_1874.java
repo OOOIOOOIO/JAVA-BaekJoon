@@ -1,4 +1,4 @@
-package ½ºÅÃ;
+package Â½ÂºÃ…Ãƒ;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Stack;
 
-public class ½ºÅÃ¼ö¿­_1874 {
+public class Â½ÂºÃ…ÃƒÂ¼Ã¶Â¿Â­_1874 {
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
@@ -19,12 +19,16 @@ public class ½ºÅÃ¼ö¿­_1874 {
 		int[] compare = new int[n];
 		boolean flag = true;
 		
+		// ë°ì´í„° ë°›ê¸°
 		for(int i = 0; i < n; i++) {
-			data[i] = Integer.parseInt(br.readLine()); // ¿ø ¹è¿­
+			data[i] = Integer.parseInt(br.readLine()); // Â¿Ã¸ Â¹Ã¨Â¿Â­
 		}
+		
+		// ì •ë ¬ì‹œí‚¤ê¸°
 		int[] copyAr = data.clone();
 		Arrays.sort(copyAr);
 		
+		// push(+) pop(-) 
 		int j = 0;
 		for(int i = 0; i < n; i++) {
 			stack.push(copyAr[i]);
@@ -39,6 +43,7 @@ public class ½ºÅÃ¼ö¿­_1874 {
 			
 		}
 		
+		// ê¸°ì¡´ ìˆ˜ì—´ê³¼ ê°™ì€ì§€ ë¹„êµ
 		for (int i = 0; i < copyAr.length; i++) {
 			if(data[i] != compare[i]) {
 				flag = false;
@@ -46,10 +51,12 @@ public class ½ºÅÃ¼ö¿­_1874 {
 			}
 		}
 		
+		// ì¶œë ¥ì„ ìœ„í•œ ì¤€ë¹„
 		for (int i = 0; i < result.size(); i++) {
 			sb.append(result.get(i)).append("\n");
 		}
 		
+		// ì¶œë ¥
 		if(flag) System.out.println(sb);
 		
 		else System.out.println("NO");			
