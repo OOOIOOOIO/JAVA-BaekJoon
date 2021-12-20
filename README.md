@@ -26,7 +26,7 @@
 > [제로 10773](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%8A%A4%ED%83%9D/%EC%A0%9C%EB%A1%9C_10773.java)     
 > [괄호 9012](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%8A%A4%ED%83%9D/%EA%B4%84%ED%98%B8_9012.java)     
 > [균형 잡힌 세상 4949 스택 개념](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%8A%A4%ED%83%9D/%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%EC%84%B8%EC%83%81_4949.java)     
-> [스택 수열 1878](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%8A%A4%ED%83%9D/%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4_1874.java)    
+> [스택 수열 1874](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%8A%A4%ED%83%9D/%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4_1874.java)    
 > 
 --------------------------------
 ## 큐
