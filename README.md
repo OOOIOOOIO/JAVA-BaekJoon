@@ -3,9 +3,11 @@
 <hr>
 
 ## 기타
-> [입출력 EOF 10591](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EA%B8%B0%ED%83%80/%EC%9E%85%EC%B6%9C%EB%A0%A5_10591_EOF.java)
+> [입출력 EOF 10591](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EA%B8%B0%ED%83%80/%EC%9E%85%EC%B6%9C%EB%A0%A5_10591_EOF.java)      
+> 
 
 <hr>
+
 ## 문자열
 > [단어의 개수 1152](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%8B%A8%EC%96%B4%EC%9D%98%EA%B0%9C%EC%88%98_1152.java)    
 > [단어의 공부 1157](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%8B%A8%EC%96%B4%EC%9D%98%EA%B3%B5%EB%B6%80_1157.java)     
