@@ -1,20 +1,20 @@
-package ť_��;
+package Å¥_µ¦;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class ť2_18258 {
+public class Å¥2_18258 {
 	
 	private int[] queue;
 	private int max;
 	private int frontE;
 	private int rearE;
 	StringBuilder sb = new StringBuilder();
-	public ť2_18258() {;}
+	public Å¥2_18258() {;}
 	
-	public ť2_18258(int capacity) {
+	public Å¥2_18258(int capacity) {
 		this.max = capacity;
 		frontE = 0;
 		rearE = 0;
@@ -70,7 +70,7 @@ public class ť2_18258 {
 		
 		int N = Integer.parseInt(br.readLine());
 		
-		ť2_18258 q = new ť2_18258(N);
+		Å¥2_18258 q = new Å¥2_18258(N);
 		
 		StringTokenizer st;
 		
