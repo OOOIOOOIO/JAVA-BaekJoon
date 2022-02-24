@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class 체스판다시칠하기_1018_O {
+public class 체스판다시칠하기_1018 {
 	public static int min = 64;
 	
 	
