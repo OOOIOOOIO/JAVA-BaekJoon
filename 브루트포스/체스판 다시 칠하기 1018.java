@@ -1,4 +1,4 @@
-```java
+
 package 브루트포스;
 
 import java.io.BufferedReader;
@@ -86,4 +86,4 @@ public class 체스판다시칠하기_1018_O {
 //	}
 //	System.out.println();
 //}
-```
+
