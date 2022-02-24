@@ -1,4 +1,3 @@
-```java
 package 브루트포스;
 
 import java.io.BufferedReader;
@@ -170,4 +169,4 @@ public class 영화감독숌_1463 {
 
 만약 자릿수가 5개를 넘어간다면
 */
-````
+
