@@ -1,11 +1,11 @@
-package ½ºÅÃ;
+package ìŠ¤íƒ;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-public class °ıÈ£_9012 {
+public class ê´„í˜¸_9012 {
 	
 	public static String match(String input) {
 		Stack<Character> stack = new Stack<Character>();
@@ -13,7 +13,7 @@ public class °ıÈ£_9012 {
 		for(int i = 0; i < input.length(); i++) {
 			if(input.charAt(i) == '(') stack.push('(');
 			
-			// µü Ã³À½¿¡ ) ÀÌ°Ô µé¾î ¿Ã ¶§
+			// ë”± ì²˜ìŒì— ) ì´ê²Œ ë“¤ì–´ ì˜¬ ë•Œ
 			else if(stack.empty()) return "NO";
 			
 			else stack.pop();
@@ -21,7 +21,7 @@ public class °ıÈ£_9012 {
 		
 		if(stack.empty()) return "YES";
 		
-		// ( ÀÌ°Ô ³²¾Æ ÀÖÀ» ¶§
+		// ( ì´ê²Œ ë‚¨ì•„ ìˆì„ ë•Œ
 		else return "NO";
 		
 	}
