@@ -1,4 +1,4 @@
-package ½ºÅÃ;
+package 스택;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Stack;
 
-public class ½ºÅÃ¼ö¿­_1874 {
+public class 스택수열_1874 {
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
