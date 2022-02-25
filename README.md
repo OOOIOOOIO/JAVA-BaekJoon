@@ -49,17 +49,17 @@
 
 ## Stack
 
-> [스택 10828] 
+> [스택 10828] (https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EC%8A%A4%ED%83%9D_10828.java)
 
-> [제로 10773]
+> [제로 10773](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EC%A0%9C%EB%A1%9C_10773.md)
 
-> [괄호 9012]
+> [괄호 9012](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EA%B4%84%ED%98%B8_9012.md)
 
-> [균형 잡힌 세상 4949 스택 개념]
+> [균형 잡힌 세상 4949] (https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%EC%84%B8%EC%83%81_4949.md)
 
-> [스택 수열 1874]
+> [스택 수열 1874](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4_1874.md)
 
-> [오큰수 17298]
+> [오큰수 17298](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EC%98%A4%ED%81%B0%EC%88%98%2017298.md)
 
 <hr>
 
@@ -70,6 +70,16 @@
 > [카드2 2164]
 
 > [요세푸스 11866]
+
+> [프린터 큐 1966]
+
+> [덱 10866]
+
+> [회전하는 큐 1021]
+
+> [AC 5430]
+
+
 
 <hr>
 
