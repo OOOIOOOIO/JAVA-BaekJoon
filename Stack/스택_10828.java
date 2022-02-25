@@ -1,20 +1,20 @@
-package ½ºÅÃ;
+package ìŠ¤íƒ;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class ½ºÅÃ_10828 {
+public class ìŠ¤íƒ_10828 {
 	
 
 	private int ptr;
 	private int max;
 	private int[] data;
 	
-	public ½ºÅÃ_10828() {;}
+	public ìŠ¤íƒ_10828() {;}
 	
-	public ½ºÅÃ_10828(int capacity) {
+	public ìŠ¤íƒ_10828(int capacity) {
 		this.max = capacity;
 		ptr = 0;
 		data = new int[max];
@@ -68,7 +68,7 @@ public class ½ºÅÃ_10828 {
 		
 		int N = Integer.parseInt(br.readLine());
 		
-		½ºÅÃ_10828 s = new ½ºÅÃ_10828(N);
+		ìŠ¤íƒ_10828 s = new ìŠ¤íƒ_10828(N);
 
 		for (int i = 0; i < N; i++) {
 			int num = 0;
