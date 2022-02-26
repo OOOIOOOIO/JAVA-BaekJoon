@@ -28,11 +28,11 @@
 
 ## Math
 
-> [손익분기점 1712](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%88%98%ED%95%99/%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90_1712.java)     
+> [손익분기점 1712](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Math/%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90_1712.java)
 
-> [소수 2581](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%88%98%ED%95%99/%EC%86%8C%EC%88%98_2581.java)  
+> [소수 2581](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Math/%EC%86%8C%EC%88%98_2581.java)
    
-> [큰 수 BigInteger 10757](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%88%98%ED%95%99/%ED%81%B0%EC%88%98_10757_BigInteger.java)      
+> [큰 수 10757(BigInteger 설명)](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Math/%ED%81%B0%EC%88%98_10757_BigInteger.java)
 
 <hr>
 
