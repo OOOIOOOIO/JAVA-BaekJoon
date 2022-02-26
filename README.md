@@ -45,17 +45,18 @@
 > [영화감독 숌 1463](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Brute-force/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C%201463.java)
 
 > [체스판 다시 칠하기 1018](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Brute-force/%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0%201018.java)
+
 <hr>
 
 ## Stack
 
-> [스택 10828] (https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EC%8A%A4%ED%83%9D_10828.java)
+> [스택 10828](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EC%8A%A4%ED%83%9D_10828.java)
 
 > [제로 10773](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EC%A0%9C%EB%A1%9C_10773.md)
 
 > [괄호 9012](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EA%B4%84%ED%98%B8_9012.md)
 
-> [균형 잡힌 세상 4949] (https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%EC%84%B8%EC%83%81_4949.md)
+> [균형 잡힌 세상 4949](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%EC%84%B8%EC%83%81_4949.md)
 
 > [스택 수열 1874](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4_1874.md)
 
