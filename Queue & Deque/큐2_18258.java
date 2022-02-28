@@ -1,11 +1,11 @@
-package Å¥_µ¦;
+package 큐_덱;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Å¥2_18258 {
+public class 큐2_18258 {
 	
 	private int[] queue;
 	private int max;
