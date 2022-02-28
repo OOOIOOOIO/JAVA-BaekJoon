@@ -12,7 +12,7 @@ public class 큐2_18258 {
 	private int frontE;
 	private int rearE;
 	StringBuilder sb = new StringBuilder();
-	public Å¥2_18258() {;}
+	public 큐2_18258() {;}
 	
 	public Å¥2_18258(int capacity) {
 		this.max = capacity;
@@ -70,7 +70,7 @@ public class 큐2_18258 {
 		
 		int N = Integer.parseInt(br.readLine());
 		
-		Å¥2_18258 q = new Å¥2_18258(N);
+		2_18258 q = new 큐2_18258(N);
 		
 		StringTokenizer st;
 		
