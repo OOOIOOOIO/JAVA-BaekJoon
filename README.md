@@ -66,19 +66,19 @@
 
 ## Queue & Deque
 
-> [큐2 18258]
+> [큐2 18258](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Queue%20%26%20Deque/%ED%81%902_18258.java)
 
-> [카드2 2164]
+> [카드2 2164](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Queue%20%26%20Deque/%EC%B9%B4%EB%93%9C2_2164_.md)
 
-> [요세푸스 11866]
+> [요세푸스 11866](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Queue%20%26%20Deque/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4_11866.md)
 
-> [프린터 큐 1966]
+> [프린터 큐 1966](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Queue%20%26%20Deque/%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90%201966.md)
 
-> [덱 10866]
+> [덱 10866(원형)](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Queue%20%26%20Deque/%EB%8D%B1%2010866(%EC%9B%90%ED%98%95).java)
 
-> [회전하는 큐 1021]
+> [회전하는 큐 1021](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Queue%20%26%20Deque/%ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94%20%ED%81%90%201021.md)
 
-> [AC 5430]
+> [AC 5430](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Queue%20%26%20Deque/AC%205430.md)
 
 
 
