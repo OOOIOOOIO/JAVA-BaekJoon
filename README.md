@@ -105,6 +105,10 @@
 
 ## Binary Search
 
+> [공유기 설치 2110](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98%202110.java)
+
+> [나무 자르기 2801](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0%202801.md)
+
 > []()
 
 <hr>
