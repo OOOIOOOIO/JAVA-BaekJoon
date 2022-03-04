@@ -108,7 +108,17 @@
 
 ## Sort
 
-> []()
+> [수 정렬하기2](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Sort/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02%20%202751.md)
+
+> [수 정렬하기3 10989](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Sort/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03%2010989.md)
+
+> [좌표 압축 18870](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Sort/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95%2018870.md)
+
+> [좌표 정렬하기 11650](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Sort/%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%2011650.md)
+
+> [좌표 정렬하기 11651](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Sort/%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%2011651.md)
+
+> [통계학 2108](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Sort/%ED%86%B5%EA%B3%84%ED%95%99%202108.md)
 
 
 <hr>
@@ -116,13 +126,25 @@
 
 ## Recursion
 
-> []()
+> [팩토리얼 10872](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Recursion/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%2010872.md)
+
+> [피보나치수5 10870](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Recursion/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%985%2010870.md)
 
 <hr>
 
 ## Tree
 
-> []()
+> [트리의 부모 찾기 BFS 11725]()
+
+> [트리의 부모 찾기 DFS 11725]()
+
+> [트리의 지름 1167]()
+
+> [트리의 지름2 1967]()
+
+> [트리 순회 1991]()
+
+> [트리의 순회2 2263]()
 
 
 <hr>
