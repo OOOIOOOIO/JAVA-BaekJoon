@@ -84,6 +84,36 @@
 
 <hr>
 
+
+## Binary Search
+
+> [공유기 설치 2110](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98%202110.java)
+
+> [나무 자르기 2801](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0%202801.md)
+
+> [랜선 1654](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/%EB%9E%9C%EC%84%A0%201654.md)
+
+> [수찾기 1920](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/%EC%88%98%20%EC%B0%BE%EA%B8%B0%201920.md)
+
+> [숫자카드2 10816](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C2%2010816.md)
+
+> [K번째 수 1300](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/K%EB%B2%88%EC%A7%B8%20%EC%88%98%201300.md)
+
+> [LIS 가장 긴 증가하는 부분 수열2 12015(Binary Search 사용)](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/LIS%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B42%2012015(Binary%20Search%20%EC%82%AC%EC%9A%A9.md)
+
+> [LIS 가장 긴 증가하는 부분 수열2 12015(Dynamic Programming 사용)](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/LIS%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B42%2012015(Dynamic%20Programming%20%EC%82%AC%EC%9A%A9.md)
+
+
+<hr>
+
+## Sort
+
+> []()
+
+
+<hr>
+
+
 ## Recursion
 
 > []()
@@ -103,21 +133,6 @@
 
 <hr>
 
-## Binary Search
-
-> [공유기 설치 2110](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98%202110.java)
-
-> [나무 자르기 2801](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0%202801.md)
-
-> []()
-
-<hr>
-
-## Sort
-
-> []()
-
-<hr>
 
 
 
