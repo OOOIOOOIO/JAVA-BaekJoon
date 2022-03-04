@@ -99,9 +99,9 @@
 
 > [K번째 수 1300](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/K%EB%B2%88%EC%A7%B8%20%EC%88%98%201300.md)
 
-> [LIS 가장 긴 증가하는 부분 수열2 12015(Binary Search 사용)](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/LIS%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B42%2012015(Binary%20Search%20%EC%82%AC%EC%9A%A9.md)
+> [LIS 가장 긴 증가하는 부분 수열2 12015(Binary Search 사용)](https://github.com/OOOIOOOIO/JAVA_BaekJoon/tree/master/Binary%20Search)
 
-> [LIS 가장 긴 증가하는 부분 수열2 12015(Dynamic Programming 사용)](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/LIS%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B42%2012015(Dynamic%20Programming%20%EC%82%AC%EC%9A%A9.md)
+> [LIS 가장 긴 증가하는 부분 수열2 12015(Dynamic Programming 사용)](https://github.com/OOOIOOOIO/JAVA_BaekJoon/tree/master/Binary%20Search)
 
 
 <hr>
