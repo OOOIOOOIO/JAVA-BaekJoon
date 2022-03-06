@@ -23,6 +23,8 @@
 
 > [숫자의 합 11720](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/String/%EC%88%AB%EC%9E%90%EC%9D%98%ED%95%A9_11720.java)
 
+> [팰린드롬수 1259](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/String/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98%201259.md)
+
 
 <hr>
 
@@ -33,6 +35,9 @@
 > [소수 2581](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Math/%EC%86%8C%EC%88%98_2581.java)
    
 > [큰 수 10757(BigInteger 설명)](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Math/%ED%81%B0%EC%88%98_10757_BigInteger.java)
+
+>[최대공약수 최소공배수 2609](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Math/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98%202609.md)
+
 
 <hr>
 
