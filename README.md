@@ -1,15 +1,10 @@
-# JAVA_BaekJoon
+# JAVA_BaekJoon 
 
 <hr>
 
 ## ETC
 
 > [입출력 EOF 10591](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/ETC/%EC%9E%85%EC%B6%9C%EB%A0%A5_10591_EOF.java)
-
-
->  
-
-> 
 
 <hr>
 
@@ -25,7 +20,6 @@
 
 > [팰린드롬수 1259](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/String/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98%201259.md)
 
-
 <hr>
 
 ## Math
@@ -37,7 +31,6 @@
 > [큰 수 10757(BigInteger 설명)](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Math/%ED%81%B0%EC%88%98_10757_BigInteger.java)
 
 >[최대공약수 최소공배수 2609](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Math/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98%202609.md)
-
 
 <hr>
 
@@ -85,10 +78,7 @@
 
 > [AC 5430](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Queue%20%26%20Deque/AC%205430.md)
 
-
-
 <hr>
-
 
 ## Binary Search
 
@@ -108,7 +98,6 @@
 
 > [LIS 가장 긴 증가하는 부분 수열2 12015(Dynamic Programming 사용) 12015](https://github.com/OOOIOOOIO/JAVA_BaekJoon/tree/master/Binary%20Search)
 
-
 <hr>
 
 ## Sort
@@ -125,9 +114,7 @@
 
 > [통계학 2108](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Sort/%ED%86%B5%EA%B3%84%ED%95%99%202108.md)
 
-
 <hr>
-
 
 ## Recursion
 
@@ -155,21 +142,30 @@
 
 > [트리 4803](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Tree/%ED%8A%B8%EB%A6%AC%204803.md)
 
-
 <hr>
 
 ## Dynamic Programming
 
 > [01타일 1904]()
+ 
 > [1로 만들기]()
+ 
 > [계단 오르기 2579]()
+ 
 > [쉬운 계단수 10844]()
+ 
 > [신나는 함수 실행 9184]()
+ 
 > [정수 삼각형 1932]()
+ 
 > [파도반 수열 9461]()
+ 
 > [포도주 시식 2156]()
+ 
 > [피보나치 함수 1003]()
+ 
 > [가장 긴 증가하는 부분수열 - LIS 11053]()
+ 
 > [RGB거리 1149]()
 
 <hr>
