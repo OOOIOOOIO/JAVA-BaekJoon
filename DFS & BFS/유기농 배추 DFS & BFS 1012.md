@@ -46,7 +46,6 @@ public class 유기농배추_1012 {
 	 */
 	
 	static void dfs(int curr_y, int curr_x) { // curr_y : i / curr_x : j
-		
 		visited[curr_y][curr_x] = true;
 		
 //		int next_x;
@@ -75,16 +74,36 @@ public class 유기농배추_1012 {
 			int current_y = curr[0];
 			int current_x = curr[1];
 			
-			if(current_x >= 0 && current_x < N && current_y >= 0 && current_y < M) {
-				if(matrix[current_y][current_x] == 1 && !(visited2[current_y][current_x])) {
-					
-					visited2[current_y][current_x] = true;
-					
-					queue.offer(new int[] {current_y, current_x-1});
-					queue.offer(new int[] {current_y, current_x+1});
-					queue.offer(new int[] {current_y-1, current_x});
-					queue.offer(new int[] {current_y+1, current_x});
+			
+//			< 방법 1 : 하나만 걸려라>
+//			if(current_x >= 0 && current_x < N && current_y >= 0 && current_y < M) {
+//				if(matrix[current_y][current_x] == 1 && !(visited2[current_y][current_x])) {
+//					
+//					visited2[current_y][current_x] = true;
+//					
+//					queue.offer(new int[] {current_y, current_x-1});
+//					queue.offer(new int[] {current_y, current_x+1});
+//					queue.offer(new int[] {current_y-1, current_x});
+//					queue.offer(new int[] {current_y+1, current_x});
+//				}
+//			}
+			
+//			<방법 2 : 깔끔하네>
+			
+			for(int i = 0; i < 4; i++) {
+				
+				int next_x = current_x + dx[i];
+				int next_y = current_y + dy[i];
+				
+				if(next_x >= 0 && next_x < N && next_y >= 0 && next_y < M) {
+					if(matrix[next_y][next_x] == 1 && !(visited2[next_y][next_x])) {
+						
+						visited2[next_y][next_x] = true;
+						queue.offer(new int[] {next_y, next_x});
+						
+					}
 				}
+				
 			}
 		}
 	}
@@ -128,9 +147,9 @@ public class 유기농배추_1012 {
 			// 돌리기
 			for(int i = 0; i < M; i++) {
 				for(int j = 0; j < N; j++) {
-					if(matrix[i][j] == 1 && !(visited[i][j])) {
-						dfs(i, j);
-//						bfs(i, j); // if문 visited2 로 바꿔주기
+					if(matrix[i][j] == 1 && !(visited2[i][j])) {
+//						dfs(i, j);
+						bfs(i, j); // if문 visited2 로 바꿔주기
 						total++;
 					}
 				}
