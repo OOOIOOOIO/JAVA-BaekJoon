@@ -26,6 +26,9 @@
 
 - ### Backtracking
 
+- ### DFS & BFS
+
+
 <br>
 
 <hr>
@@ -244,7 +247,30 @@
 
 > [N과 M-1 15649](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Backtracking/N%EA%B3%BC%20M-1%2015649.md)
 
+> [N과 M-2 15650](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Backtracking/N%EA%B3%BC%20M-2%2015650.md)
+
+> [N과 M-3 15651](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Backtracking/N%EA%B3%BC%20M-3%2015651.md)
+
+> [N과 M-4 15652](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Backtracking/N%EA%B3%BC%20M-4%2015652.md)
 
 
+<br>
+
+<hr>
+
+<br>
+
+## DFS & BFS
+> [DFS와 BFS 1260](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/DFS%EC%99%80%20BFS%201260.md)
+
+> [단지번호붙이기 BFS 2667](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0_BFS%202667.md)
+
+> [단지번호붙이기 DFS 2667](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0_DFS%202667.md)
+
+> [유기농 배추 DFS & BFS 1012](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94%20DFS%20%26%20BFS%201012.md)
+
+> [바이러스 DFS 2606](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%202606.md)
+
+> [미로 탐색 BFS 1278](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89_BFS%201278.md)
 
 
