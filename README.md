@@ -1,32 +1,32 @@
 # JAVA_BaekJoon 
 <br>
 
-# Index
-- ### ETC
+- # Index
+   - ### ETC
 
-- ### String
+   - ### String
 
-- ### Math
+   - ### Math
 
-- ### Brute Force
+   - ### Brute Force
 
-- ### Stack
+   - ### Stack
 
-- ### Queue & Deque
+   - ### Queue & Deque
 
-- ### Binary Search
+   - ### Binary Search
 
-- ### Sort
+   - ### Sort
 
-- ### Recursion
+   - ### Recursion
 
-- ### Tree
+   - ### Tree
 
-- ### Dynamic Programming
+   - ### Dynamic Programming
 
-- ### Backtracking
-
-- ### DFS & BFS
+   - ### Backtracking
+   
+   - ### DFS & BFS
 
 
 <br>
@@ -35,7 +35,7 @@
 
 <br>
 
-## ETC
+- ## ETC
 
 > [입출력 EOF 10591](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/ETC/%EC%9E%85%EC%B6%9C%EB%A0%A5_10591_EOF.java)
 
@@ -45,7 +45,7 @@
 
 <br>
 
-## String
+- ## String
 
 > [단어의 개수 1152](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/String/%EB%8B%A8%EC%96%B4%EC%9D%98%EA%B0%9C%EC%88%98_1152.java)
 
@@ -63,7 +63,7 @@
 
 <br>
 
-## Math
+- ## Math
 
 > [손익분기점 1712](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Math/%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90_1712.java)
 
@@ -79,7 +79,7 @@
 
 <br>
 
-## Brute Force
+- ## Brute Force
 
 > [분해합 2231](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Brute-force/%EB%B6%84%ED%95%B4%ED%95%A9_2231.java)
 
@@ -95,7 +95,7 @@
 
 <br>
 
-## Stack
+- ## Stack
 
 > [스택 10828](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Stack/%EC%8A%A4%ED%83%9D_10828.java)
 
@@ -115,7 +115,7 @@
 
 <br>
 
-## Queue & Deque
+- ## Queue & Deque
 
 > [큐2 18258](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Queue%20%26%20Deque/%ED%81%902_18258.java)
 
@@ -137,7 +137,7 @@
 
 <br>
 
-## Binary Search
+- ## Binary Search
 
 > [공유기 설치 2110](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Binary%20Search/%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98%202110.java)
 
@@ -161,7 +161,7 @@
 
 <br>
 
-## Sort
+- ## Sort
 
 > [수 정렬하기2](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Sort/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02%20%202751.md)
 
@@ -177,7 +177,7 @@
 
 <hr>
 
-## Recursion
+- ## Recursion
 
 > [팩토리얼 10872](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Recursion/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%2010872.md)
 
@@ -189,7 +189,7 @@
 
 <br>
 
-## Tree
+- ## Tree
 
 > [트리의 부모 찾기 BFS 11725](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Tree/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0%2011725%20-%20BFS.md)
 
@@ -213,7 +213,7 @@
 
 <br>
 
-## Dynamic Programming
+- ## Dynamic Programming
 
 > [01타일 1904]()
  
@@ -243,7 +243,7 @@
 
 <br>
 
-## Backtracking
+- ## Backtracking
 
 > [N과 M-1 15649](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Backtracking/N%EA%B3%BC%20M-1%2015649.md)
 
@@ -260,7 +260,7 @@
 
 <br>
 
-## DFS & BFS
+- ## DFS & BFS
 > [DFS와 BFS 1260](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/DFS%EC%99%80%20BFS%201260.md)
 
 > [단지번호붙이기 BFS 2667](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0_BFS%202667.md)
