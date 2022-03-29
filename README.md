@@ -273,4 +273,4 @@
 
 > [미로 탐색 BFS 1278](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89_BFS%201278.md)
 
-
+> [토마토_BFS(동시 시작) 7576](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%ED%86%A0%EB%A7%88%ED%86%A0_BFS(%EB%8F%99%EC%8B%9C%20%EC%8B%9C%EC%9E%91)%207576.md)
