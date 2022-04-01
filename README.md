@@ -290,3 +290,7 @@
 > [미로 탐색 BFS 1278](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89_BFS%201278.md)
 
 > [토마토_BFS(동시 시작) 7576](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%ED%86%A0%EB%A7%88%ED%86%A0_BFS(%EB%8F%99%EC%8B%9C%20%EC%8B%9C%EC%9E%91)%207576.md)
+
+>[토마토2 3차원 7569](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%ED%86%A0%EB%A7%88%ED%86%A02_3%EC%B0%A8%EC%9B%90%207569.md)
+
+>[숨바꼭질 1697](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%201697.md)
