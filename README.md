@@ -12,7 +12,9 @@
 
    - ### Stack
 
-   - ### Queue & Deque
+   - ### Queue & Deque 
+
+   - ### Priority Queue
 
    - ### Binary Search
 
@@ -115,7 +117,7 @@
 
 <br>
 
-- ## Queue & Deque
+- ## Queue & Deque & Priority Queue
 
 > [큐2 18258](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Queue%20%26%20Deque/%ED%81%902_18258.java)
 
@@ -130,6 +132,20 @@
 > [회전하는 큐 1021](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Queue%20%26%20Deque/%ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94%20%ED%81%90%201021.md)
 
 > [AC 5430](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Queue%20%26%20Deque/AC%205430.md)
+
+
+
+<br>
+
+<hr>
+
+<br>
+
+
+- ## Priority Queue
+
+>[우선순위 큐 최대힙 11279](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Priority%20Queue/%EC%B5%9C%EB%8C%80%ED%9E%99%2011279.md)
+
 
 <br>
 
