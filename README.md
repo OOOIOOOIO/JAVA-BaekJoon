@@ -294,3 +294,5 @@
 >[토마토2 3차원 7569](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%ED%86%A0%EB%A7%88%ED%86%A02_3%EC%B0%A8%EC%9B%90%207569.md)
 
 >[숨바꼭질 1697](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%201697.md)
+
+>[벽 부수고 이동하기 2206](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%202206.md)
