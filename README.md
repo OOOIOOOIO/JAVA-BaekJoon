@@ -146,7 +146,7 @@
 
 >[우선순위 큐 최대힙 11279](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Priority%20Queue/%EC%B5%9C%EB%8C%80%ED%9E%99%2011279.md)
 
-
+>[우선순위 큐 최소힙 1927](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Priority%20Queue/%EC%B5%9C%EC%86%8C%ED%9E%99%201927.md)
 <br>
 
 <hr>
@@ -269,6 +269,10 @@
 
 > [N과 M-4 15652](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Backtracking/N%EA%B3%BC%20M-4%2015652.md)
 
+>[N Queen 2580]()
+
+>[스도쿠 9663]()
+
 
 <br>
 
@@ -296,3 +300,7 @@
 >[숨바꼭질 1697](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%201697.md)
 
 >[벽 부수고 이동하기 2206](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%202206.md)
+
+>[나이트의 이동 7562](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20&%20BFS/%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99%207562.md)
+
+>[]()
