@@ -29,7 +29,8 @@
    - ### Backtracking
    
    - ### DFS & BFS
-   - ### Greed Algorithm
+  
+   - ### Greedy Algorithm
 
 
 <br>
@@ -323,7 +324,7 @@
 
 <br>
 
-- ## Greed Algorithm
+- ## Greedy Algorithm
 
 >[동전 0 11047](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Greed%20Algorithm/%EB%8F%99%EC%A0%84%200%2011047.md)
 
