@@ -330,6 +330,8 @@
 
 >[회의실 배정 1931](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Greedy%20Algorithm/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95%201931.md)
 
+>[ATM 11399](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Greedy%20Algorithm/ATM%2011399.md)
+
 >[]()
 
 
