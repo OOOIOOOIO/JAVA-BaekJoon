@@ -355,7 +355,7 @@
 
 >[최단 경로 1753_다익스트라 알고리즘_인접행렬](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C%201753_%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC_%EC%9D%B8%EC%A0%91%ED%96%89%EB%A0%AC.md)
 
->[]()
+>[특정한 최단 경로 1504](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C%201504.md)
 
 <br>
 
