@@ -362,3 +362,13 @@
 <hr>
 
 <br>
+
+- ## 최소 신장 트리
+
+>[상근이의 여행 9372](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89%209372.md)
+
+<br>
+
+<hr>
+
+<br>
