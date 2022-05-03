@@ -1,4 +1,7 @@
 
+![image](https://user-images.githubusercontent.com/74396651/166431395-cbf0ee31-3935-47b8-8b1f-198412f76518.png)
+
+![image](https://user-images.githubusercontent.com/74396651/166431417-93f57bb9-5745-4099-a01f-664518ef17ad.png)
 
 
 문제 링크 : https://www.acmicpc.net/problem/1774  
