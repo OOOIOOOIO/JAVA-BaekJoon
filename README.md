@@ -1,5 +1,10 @@
-# JAVA_BaekJoon 
-<br>
+# JAVA BaekJoon 
+<br> 
+divide conquer
+two pointer
+union find
+최단거리
+최소신장트리
 
 - # Index
    - ### ETC
@@ -27,6 +32,8 @@
    - ### Dynamic Programming
 
    - ### Backtracking
+
+   - ### Divide and Conquer
    
    - ### DFS & BFS
   
@@ -34,7 +41,11 @@
 
    - ### 최단 경로
 
-   -
+   - ### Two Pointer
+
+   - ### Union Find
+
+   - ### 최소 신장 트리
 
 
 <br>
