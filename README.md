@@ -307,6 +307,22 @@ union find
 
 <br>
 
+- ## Divide and Conquer
+
+>[곱셈 1629 모듈러 연산]()
+
+>[색종이 만들기 2630](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/Divide%20and%20Conquer/%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%202630.md)
+
+>[종이의 개수 1780](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/Divide%20and%20Conquer/%EC%A2%85%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98%201780.md)
+
+>[쿼드트리 1992](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/Divide%20and%20Conquer/%EC%BF%BC%EB%93%9C%20%ED%8A%B8%EB%A6%AC%201992.md)
+
+<br>
+
+<hr>
+
+<br>
+
 - ## DFS & BFS
 > [DFS와 BFS 1260](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/DFS%20%26%20BFS/DFS%EC%99%80%20BFS%201260.md)
 
@@ -368,18 +384,77 @@ union find
 
 >[특정한 최단 경로 1504](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C%201504.md)
 
+>[미확인 도착지 9370](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EB%AF%B8%ED%99%95%EC%9D%B8%20%EB%8F%84%EC%B0%A9%EC%A7%80%209370.md)
+
+>[숨바꼭칠3 13549](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883%2013549.md)
+
+>[운동_플로이드 1956](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EC%9A%B4%EB%8F%99_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C_1956.md)
+
+>[타임머신_벨멘포드 11657](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0%20%EB%B2%A8%EB%A9%98%ED%8F%AC%EB%93%9C_11657.md)
+
+>[플로이드 11404](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%2011404.md)
+
 <br>
 
 <hr>
 
 <br>
+
+- ## Union Find
+
+>[사이클 게임 20040](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/Union%20Find/%EC%82%AC%EC%9D%B4%ED%81%B4%20%EA%B2%8C%EC%9E%84%2020040.md)
+
+>[여행 가자 1976](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/Union%20Find/%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90%201976.md)
+
+>[집합의 표현 1717](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/Union%20Find/%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84%201717.md)
+
+>[친구 네트워크 _트리 레벨 이용 4195](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/Union%20Find/%EC%B9%9C%EA%B5%AC%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%8A%B8%EB%A6%AC%EB%A0%88%EB%B2%A8%EC%9D%84%EC%9D%B4%EC%9A%A9_4195.md)
+
+
+<br>
+
+<hr>
+
+<br>
+
+
 
 - ## 최소 신장 트리
 
 >[상근이의 여행 9372](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89%209372.md)
 
+>[별자리 만들기 kruskal 4386](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EB%B3%84%EC%9E%90%EB%A6%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20kruscal%204386.md)
+
+>[별자리 만들기 prim 4386](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EB%B3%84%EC%9E%90%EB%A6%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20prim%204386.md)
+
+>[상근이의 여행 9372](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89%209372.md)
+
+>[우주신과 교감_kruskal 1774](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EC%9A%B0%EC%A3%BC%EC%8B%A0%EA%B3%BC%20%EA%B5%90%EA%B0%90_kruskal_1774.md)
+
+>[최소 스패닝 트리 prim](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC%20prim%201197.md)
+
+>[행성 터널 kruskal 2887](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%ED%96%89%EC%84%B1%20%ED%84%B0%EB%84%90%20kruskal%202887.md)
+
 <br>
 
 <hr>
 
 <br>
+
+- ## Two Pointer
+
+>[두 수의 합 3273](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/Two%20Pointer/%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9%203273.md)
+
+>[두 용액_Two Pointer 개념 2470](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/Two%20Pointer/%EB%91%90%20%EC%9A%A9%EC%95%A1_two%20pointer%20%EA%B0%9C%EB%85%90_%202470.md)
+
+>[부분합 1806](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/Two%20Pointer/%EB%B6%80%EB%B6%84%ED%95%A9%201806.md)
+
+>[소수의 연속합 1644](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/Two%20Pointer/%EC%86%8C%EC%88%98%EC%9D%98%20%EC%97%B0%EC%86%8D%ED%95%A9%201644.md)
+
+
+<br>
+
+<hr>
+
+<br>
+
