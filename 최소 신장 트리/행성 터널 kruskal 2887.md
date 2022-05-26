@@ -15,7 +15,7 @@ import java.util.Comparator;
 import java.util.StringTokenizer;
 
 
-public class 행성터널_kruscal_2887 {
+public class 행성터널_kruskal_2887 {
 	
 	static class Node{
 		int nodeNum;
