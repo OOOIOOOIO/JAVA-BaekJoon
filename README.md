@@ -1,10 +1,6 @@
 # JAVA BaekJoon 
 <br> 
-divide conquer
-two pointer
-union find
-최단거리
-최소신장트리
+
 
 - # Index
    - ### ETC
