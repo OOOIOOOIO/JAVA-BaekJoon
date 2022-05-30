@@ -102,6 +102,9 @@
 
 >[구간 합 구하기_ 배열로 누적쌓기_ 111659](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EB%88%84%EC%A0%81%20%ED%95%A9/%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B04_%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%88%84%EC%A0%81%20%EC%8C%93%EA%B8%B0_%2011659.md)
 
+
+>[수열 2559](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/%EB%88%84%EC%A0%81%20%ED%95%A9/%EC%88%98%EC%97%B4_2559.md)
+
 <br>
 
 <hr>
