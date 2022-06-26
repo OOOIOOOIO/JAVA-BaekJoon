@@ -237,6 +237,8 @@
 
 > [피보나치수5 10870](https://github.com/OOOIOOOIO/JAVA_BaekJoon/blob/master/Recursion/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%985%2010870.md)
 
+>[평범한 배낭 - 냅색문제 12865](https://github.com/OOOIOOOIO/JAVA-BaekJoon/blob/master/Recursion/%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD%20-%20%EB%83%85%EC%83%89%EB%AC%B8%EC%A0%9C%2012865.md)
+
 <br>
 
 <hr>
